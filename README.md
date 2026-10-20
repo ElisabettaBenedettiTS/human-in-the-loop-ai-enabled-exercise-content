@@ -96,8 +96,8 @@ This repository can be used as evidence of capability in:
 
 ## Disclaimer
 
-All examples in this repository are synthetic and unclassified.
+All examples in this repository are synthetic and public.
 
-No NATO, JFTC, national military, proprietary, operationally sensitive, procurement-sensitive, or classified information is included.
+No national military, proprietary, operationally sensitive, procurement-sensitive, or classified information is included.
 
 The framework is an independently developed professional methodology for portfolio and demonstration purposes.
