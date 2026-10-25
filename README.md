@@ -78,6 +78,37 @@ The repository includes a fully synthetic logistics case study involving disrupt
 
 **Raw requirement → AI-assisted draft → assurance review → issues detected → human corrections → final approved product**
 
+## Additional Portfolio Artefacts
+
+This repository also includes supporting artefacts that demonstrate the practical application, assurance, governance, and secure use of AI-enabled tools in exercise-content development.
+
+- **AI-Assisted Exercise Content User Guide v1.0**  
+  Practical guidance for responsible, secure, human-supervised use of AI-enabled tools in exercise-content development.
+
+- **Synthetic Post-Exercise Review Case Study**  
+  Demonstrates how AI can support post-exercise synthesis, lessons capture, and content refinement while preserving human interpretation of causality and training effect.
+
+- **AI Security and Assurance Proof Pack v1.0**  
+  Demonstrates embedded security controls, assurance mechanisms, prompt-injection awareness, hallucination control, human approval, provenance, and iterative prompt testing.
+
+## Current Repository Contents
+
+- `ai-assisted-content-workflow.md`
+- `ai-content-assurance-framework.md`
+- `ai-content-product-record-v1.0.md`
+- `prompt-library-v1.0.md`
+- `exercise-content-generation-prompt-v1.1.md`
+- `prompt-performance-log-v1.0.md`
+- `completed-prompt-performance-log-test-02.md`
+- `completed-prompt-performance-log-v1.1-retest.md`
+- `synthetic-logistics-case-study.md`
+- `synthetic-information-environment-case-study.md`
+- `retest-case-study-02-prompt-v1.1.md`
+- `secure-ai-use-guide-v1.0.md`
+- `ai-assisted-exercise-content-user-guide-v1.0.md`
+- `synthetic-post-exercise-review-case-study.md`
+- `ai-security-and-assurance-proof-pack-v1.0.md`
+- 
 ## Portfolio Use
 
 This repository can be used as evidence of capability in:
